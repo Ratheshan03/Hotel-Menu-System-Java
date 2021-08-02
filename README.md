@@ -5,7 +5,7 @@
 
 ### This Project is based on the below Assignment =>
 
-<h3> Task 1.</h3> Arrays version. Design a program for a hotel with eight rooms using the code given below. Start by checking that the code works. <br>
+Task 1. Arrays version. Design a program for a hotel with eight rooms using the code given below. Start by checking that the code works. <br>
                     package arrays; <br>
                     import java.util.*; <br>
                     public class HotelExample { <br>
@@ -55,11 +55,11 @@ One by one, add extra methods to do each of the following. The user should be ab
                 <br><br>
 
 
-<h3> Task 2. </h3> Classes version. Create a second version of the Hotel program using an array of Room objects. Create a class  <br>
+Task 2. Classes version. Create a second version of the Hotel program using an array of Room objects. Create a class  <br>
         called Hotel and another class called Room. The program should function as in Task 1. <br><br>
 
 
-<h3> Task 3. </h3> Extend your programs from Task 1 and Task2. Modify both programs so that each room can now hold the following <br>
+Task 3. Extend your programs from Task 1 and Task2. Modify both programs so that each room can now hold the following <br>
         additional information. (Hint: you will need a Person class for the class version) <br>
           <p align="center">
                 a. The number of guests in a room. <br>
@@ -70,7 +70,7 @@ One by one, add extra methods to do each of the following. The user should be ab
 (This task will familiarize you with what we mean by “maintainability” of a program. If you don’t use classes, you will <br>
 need to use parallel arrays! While you are doing this task think about which of the programs was easier to extend and why) <br><br>
 
-<h3> Task 4. </h3> Queue version. Add a waiting list to your Hotel class version. Modify your ‘A: Add’ and ‘D: Delete’ as follows: <br>
+Task 4. Queue version. Add a waiting list to your Hotel class version. Modify your ‘A: Add’ and ‘D: Delete’ as follows: <br>
                 When you press ‘A’ to add a new customer, if the hotel is full, the customer should be added to a Waiting List (a queue). <br>
                 When you press ‘D’ to delete a customer from a room, the next customer in the waiting queue should be automatically placed in the room. <br>
                 Extra marks will be awarded if you implement the waiting list as a circular queue. <br>
