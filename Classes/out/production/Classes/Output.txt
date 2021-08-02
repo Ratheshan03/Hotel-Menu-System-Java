@@ -1,0 +1,50 @@
+|--------------------------HOTEL DATA---------------------------|
+
+---------------------------------------------------------------
+Room number 1 is occupied by Ratheshan
+Guest's Full Name: Ratheshan sathiyamoorthy
+Number of Guests in the room: 3  Credit card number: 223232
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 2 is occupied by Kevin
+Guest's Full Name: Kevin damon
+Number of Guests in the room: 2  Credit card number: 1221212
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 3 is occupied by null
+Guest's Full Name: null null
+Number of Guests in the room: 0  Credit card number: 0
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 4 is occupied by Helan
+Guest's Full Name: Namn Yully
+Number of Guests in the room: 3  Credit card number: 34343
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 5 is occupied by calvin
+Guest's Full Name: Calvin Andrew
+Number of Guests in the room: 2  Credit card number: 2323232
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 6 is occupied by Empty
+Guest's Full Name: null null
+Number of Guests in the room: 0  Credit card number: 0
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 7 is occupied by Empty
+Guest's Full Name: null null
+Number of Guests in the room: 0  Credit card number: 0
+---------------------------------------------------------------
+
+---------------------------------------------------------------
+Room number 8 is occupied by Empty
+Guest's Full Name: null null
+Number of Guests in the room: 0  Credit card number: 0
+---------------------------------------------------------------
+
